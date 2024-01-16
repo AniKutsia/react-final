@@ -8,10 +8,16 @@
 <br><br>
 
 1)React Hooks: პროექტში გამოყენებულია useState და useEffect
-2.![image](https://github.com/AniKutsia/react-final/assets/98180311/1746119c-ca88-40b6-bd31-e468921d6935)
-3.
+
 4.<br><br>
 <img src="https://github.com/AniKutsia/react-final/assets/98180311/1746119c-ca88-40b6-bd31-e468921d6935" alt="Project Image" />
 <br><br>
 
+
+<br><br>
+<img src="https://github.com/AniKutsia/react-final/assets/98180311/557ff4b7-b82b-470a-8f9d-27f7d34b2512" alt="Project Image" />
+<br><br>
+<br><br>
+<img src="https://github.com/AniKutsia/react-final/assets/98180311/1746119c-ca88-40b6-bd31-e468921d6935" alt="Project Image" />
+<br><br>
 
