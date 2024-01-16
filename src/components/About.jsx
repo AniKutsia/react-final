@@ -24,7 +24,7 @@ function About() {
       </section>
 
       {/* Character Showcase */}
-      <section className="mt-16">
+     <section className="mt-16">
         <h2 className="text-3xl font-bold mb-8 text-center text-yellow-500">Key Characters</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
           {/* Character Cards */}
@@ -35,8 +35,19 @@ function About() {
             <p className="text-gray-300">The Mother of Dragons, determined to reclaim the Iron Throne.</p>
           </div>
           {/* Add more character cards here */}
+          <div className="bg-gray-800 p-6 rounded-md shadow-md hover:shadow-lg transform transition duration-300 hover:scale-105">
+            <img src={wolf} alt="Character" className="w-full h-48 object-cover rounded-md mb-4" />
+            <h3 className="text-xl font-bold mb-2">jhon snow</h3>
+            <p className="text-gray-300">king of the north</p>
+          </div>
+          <div className="bg-gray-800 p-6 rounded-md shadow-md hover:shadow-lg transform transition duration-300 hover:scale-105">
+            <img src={wolf} alt="Character" className="w-full h-48 object-cover rounded-md mb-4" />
+            <h3 className="text-xl font-bold mb-2">Rob Stark</h3>
+            <p className="text-gray-300">king of north king</p>
+          </div>
         </div>
       </section>
+
 
       {/* House Histories */}
       <section className="mt-16">
